@@ -13,7 +13,7 @@ Run either `GetToyURIData.js` or `GetToyURIDownload.js`<br/>
 5.<br/>
 If you ran `GetToyURIData.js` on step 4, then go to step 6.1!<br/>
 If you ran `GetToyURIDownload.js` on step 4, then goto step 6.2!<br/>
-6.1
+6.1<br/>
 Either run `GetToyURIDataRun.js` in the console<br/>
 or just put<br/>
 ```
